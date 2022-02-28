@@ -1,0 +1,34 @@
+segment_sources:
+  P638C4472:
+    type: origin_type
+    relation: translation
+    language: en
+  PC2047C5C:
+    type: origin_type
+    relation: translation
+    language: pt
+  PEB41AFD6:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  01aba1336a064bdeb111d643938e4491:
+    P638C4472: d506c1d1c2a94cdeb958cd49e2682643
+    PC2047C5C: 951ca6f83be5495cba2dfd975c264b9f
+    PEB41AFD6: d3622927fa7a4455bb03582bf63f22a7
+  9dc862cab0c149628c9f7ea888709966:
+    P638C4472: 5d6a8baa63e54ad89c9bfa69413869bf
+    PC2047C5C: 0263d389a4eb449d93dd4abbf917976c
+    PEB41AFD6: 68d35880419147379df5bea0db2d48fd
+  76a0199a2c7c4dc393555791d255e2b2:
+    P638C4472: f8d663c306804aeaa0c6dda34b0c94f2
+    PC2047C5C: b9437b5f43a54ee8ba69aad95904898d
+    PEB41AFD6: a2b631cfa9bf491c97a33491d1aca197
+  e74ee896abcb4afd95241b2c59223b72:
+    P638C4472: 0f73f0ac02064eb1b8fea7927c09343a
+    PC2047C5C: 52cb7a2bfeef43debb57720a7ffcbb98
+    PEB41AFD6: 02e8eb8bd9834daa995302805179c7e5
+  f295d1acb22c46278cfa4fc9ca3190e3:
+    P638C4472: 018713ec437d4fc0a5b7fb6362209dc6
+    PC2047C5C: 9a65e862a91d4764af8e7732bec3a916
+    PEB41AFD6: 894170d1eee745c8ba7cbc5e3312fa9c
